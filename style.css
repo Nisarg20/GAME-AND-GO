@@ -127,13 +127,13 @@ main {
 .btn__slider--1 {
   position: absolute;
   top: 50%;
-  right: 30px;
+  left: 35px;
 }
 
 .btn__slider--2 {
   position: absolute;
   top: 50%;
-  left: 35px;
+  right: 30px;
 }
 
 .btn {
