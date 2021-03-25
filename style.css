@@ -124,13 +124,13 @@ main {
   padding: 0.7rem 2.5rem;
 }
 
-.btn__slider--1 {
+.btn__slider--2 {
   position: absolute;
   top: 50%;
   right: 30px;
 }
 
-.btn__slider--2 {
+.btn__slider--1 {
   position: absolute;
   top: 50%;
   left: 35px;
